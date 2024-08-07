@@ -12,7 +12,7 @@
       "img2": "https://www.fnp.com/images/pr/l/v200/decorated-chocolate-truffle-cake-half-kg-eggless_4.jpg",
       "img3": "https://www.fnp.com/images/pr/l/v200/decorated-chocolate-truffle-cake-half-kg-eggless_3.jpg",
       "img4": "https://www.fnp.com/images/pr/l/v200/decorated-chocolate-truffle-cake-half-kg-eggless_5.jpg",
-      "quantity": "1"
+      "quantity": "0"
     },
     {
       "id": "2",
@@ -306,7 +306,7 @@
       "img2": "https://www.fnp.com/images/pr/l/v200/cream-drop-chocolate-cake-half-kg-eggless_3.jpg",
       "img3": "https://www.fnp.com/images/pr/l/v200/cream-drop-chocolate-cake-half-kg-eggless_4.jpg",
       "img4": "https://www.fnp.com/images/pr/l/v200/cream-drop-chocolate-cake-half-kg-eggless_5.jpg",
-      "quantity": "1"
+      "quantity": "0"
     },
     {
       "id": "23",
@@ -418,7 +418,7 @@
       "img2": "https://www.fnp.com/images/pr/l/v200/chocolate-fudge-cake-half-kg-eggless_2.jpg",
       "img3": "https://www.fnp.com/images/pr/l/v200/chocolate-fudge-cake-half-kg-eggless_3.jpg",
       "img4": "https://www.fnp.com/images/pr/l/v200/chocolate-fudge-cake-half-kg-eggless_5.jpg",
-      "quantity": "2"
+      "quantity": "0"
     },
     {
       "id": "31",
@@ -684,7 +684,7 @@
       "img2": "https://www.fnp.com/images/pr/l/v200/luxe-love-orchids-bouquet_2.jpg",
       "img3": "https://www.fnp.com/images/pr/l/v200/luxe-love-orchids-bouquet_3.jpg",
       "img4": "https://www.fnp.com/images/pr/l/v200/luxe-love-orchids-bouquet_6.jpg",
-      "quantity": "2"
+      "quantity": "0"
     },
     {
       "id": "50",
@@ -1118,7 +1118,7 @@
       "img2": "https://www.fnp.com/images/pr/l/v200/artisan-chocolate-medley_2.jpg",
       "img3": "https://www.fnp.com/images/pr/l/v200/artisan-chocolate-medley_1.jpg",
       "img4": "https://www.fnp.com/images/pr/l/v200/artisan-chocolate-medley_3.jpg",
-      "quantity": "2"
+      "quantity": "0"
     },
     {
       "id": "81",
@@ -1687,16 +1687,16 @@
       "title": "Snicker Chocolates",
       "price": "250",
       "imgURL": "https://www.fnp.com/images/pr/m/v20230802171004/2-pc-snickers-chocolates-in-gift-packing.jpg",
-      "quantity": "1",
-      "checked": true
+      "quantity": "0",
+      "checked": false
     },
     {
       "id": "122",
       "title": "Son Papdi",
       "price": "450",
       "imgURL": "https://www.fnp.com/images/pr/m/v20160418151002/soan-papdi-500-gms.jpg",
-      "quantity": "1",
-      "checked": true
+      "quantity": "0",
+      "checked": false
     },
     {
       "id": "123",
@@ -1719,8 +1719,8 @@
       "title": "Teddy Bear",
       "price": "300",
       "imgURL": "https://www.fnp.com/images/pr/m/v20201229183953/soft-toys-6-inch.jpg",
-      "quantity": "1",
-      "checked": true
+      "quantity": "0",
+      "checked": false
     },
     {
       "id": "126",

@@ -39,7 +39,7 @@ const LoginPage = () => {
         const storedUserDetails = JSON.parse(localStorage.getItem('user-details'));
         setUserDetails(storedUserDetails);
         setUserName(storedUserDetails.name);
-    },[])
+    },[setUserName])
     return (
         <main className='login-page'>
             {userDetails.name ==="Guest" &&

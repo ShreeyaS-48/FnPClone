@@ -161,7 +161,7 @@ const Cart = () => {
         purchasedAddons.forEach(item=>num2+=parseInt(item.quantity));
         setTotalAddons(num2)
         setTotalItems(num1 + num2);
-    }, [cartItems, addons]);
+    }, [cartItems, addons, purchasedAddons]);
     return (
         <div className='cart'>
         <h2 style={{textAlign:"center", paddingTop:"5px", fontSize:"1.8rem"}}>Shopping Cart</h2>
