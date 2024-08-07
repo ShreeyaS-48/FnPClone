@@ -1,5 +1,5 @@
 import React from 'react'
-import {FaPlus, FaStar, FaTrashAlt, FaMinus} from 'react-icons/fa';
+import {FaStar, FaTrashAlt} from 'react-icons/fa';
 import {Link} from 'react-router-dom';
 import AddToCartButton from './AddToCartButton';
 const Item = ({item, handleAddToCart, handleDelete, handleIncreaseQty, handleDecreaseQty}) => {
